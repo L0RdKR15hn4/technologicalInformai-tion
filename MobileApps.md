@@ -33,12 +33,16 @@ TripNp - Bus Ticketing Service
 
 Baghchal - Android game based on the traditional nepali game by the same name.
  
-Nagarik App - Govermental App 
+Nagarik App - Govermental App with various sevices
  
  Nepal Passport Enquiry - 
 
 nepali matrimony
 
-merosharebazar
+meroshare - apply share from hee
 
-fonepay
+fonepay- online transaction merchantt
+
+Nameste Pay - An NTC initiative to online payment
+
+pokhara food delivery - food delivery service in pokhara
