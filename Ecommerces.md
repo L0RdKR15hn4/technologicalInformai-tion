@@ -17,5 +17,6 @@ khetifood -food and vegetable delivery service in Nepal
 foodmood - food delivery in pokhara
 
 daraz- largest online store in nepal
-
+ 
+sastodeal - first online store
 
