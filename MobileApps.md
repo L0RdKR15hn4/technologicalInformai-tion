@@ -46,3 +46,7 @@ fonepay- online transaction merchantt
 Nameste Pay - An NTC initiative to online payment
 
 pokhara food delivery - food delivery service in pokhara
+ 
+ foodmood - food delivery in pokhara
+ 
+ raksi sukuti - 24 hrs food delivery in pokhara
