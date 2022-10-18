@@ -13,3 +13,7 @@ saral notes - provides notes for engineering students
 
 bookmandu - online bookshop
 
+hello programmers - note provider
+
+hamro pustak - online book store
+
