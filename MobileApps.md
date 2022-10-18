@@ -50,3 +50,7 @@ pokhara food delivery - food delivery service in pokhara
  foodmood - food delivery in pokhara
  
  raksi sukuti - 24 hrs food delivery in pokhara
+ 
+ tato mitho
+ 
+ mero kinmel 
