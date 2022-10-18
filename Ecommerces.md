@@ -23,3 +23,9 @@ sastodeal - first online store
 mero kinmel 
 
 basemark 
+
+hukut - ecommerce store
+
+meroDoko - shopping market
+
+fewa bazar- market operating in pokhara
