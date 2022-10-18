@@ -7,3 +7,7 @@ Foodmario - Foodmario is Nepal’s first and only platform that connects home ch
 sastodeal - SastoDeal
 
 basobaas - Looking For A Property? Search your dream home on Nepal’s largest property marketplace
+
+hamro bazar - Nepal's first second hand market
+
+pathao - Nepal's ride sharing app
