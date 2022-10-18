@@ -56,3 +56,7 @@ pokhara food delivery - food delivery service in pokhara
  chicken statioin 
  
  kfc nepal
+ 
+ nepalStock Exchange - stick market nepal
+ 
+ veda school - school mamagement software
