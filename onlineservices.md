@@ -13,3 +13,6 @@ saral notes - provides notes for engineering students
 
 bookmandu - online bookshop
 
+notejunction - note provider
+
+bbsnote - note for bbs
