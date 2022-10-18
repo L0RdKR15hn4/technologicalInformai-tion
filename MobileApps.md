@@ -50,3 +50,9 @@ pokhara food delivery - food delivery service in pokhara
  foodmood - food delivery in pokhara
  
  raksi sukuti - 24 hrs food delivery in pokhara
+ 
+ tato mitho 
+ 
+ chicken statioin 
+ 
+ kfc nepal
