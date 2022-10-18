@@ -11,3 +11,5 @@ Oliz Store - Gadget reviews.
 techpana- technology news
 tecmandu-review site
 ktm2day- auto tech site
+nepbazar- a palce for all
+hamrobazar- reviewaswellas sales
