@@ -7,3 +7,4 @@ Entrepreneurs for Nepal - Entrepreneurs for Nepal
 Facebook Developer Circle - Facebook Developer Circle: Kathmandu
 GadgetByte Nepal - GadgetByte Nepal
 TechGuff - TechGuff
+tech lekh - tech lekh
