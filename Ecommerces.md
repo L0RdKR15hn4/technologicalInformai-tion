@@ -20,3 +20,6 @@ daraz- largest online store in nepal
  
 sastodeal - first online store
 
+mero kinmel 
+
+basemark 
