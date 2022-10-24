@@ -19,3 +19,33 @@ techpana - reviewsite
 techtoday
 
 neptech
+
+Vrit Technologies
+
+Werkk - Freelancing startup in Nepal
+
+Sagarmatha Hackoberfest
+
+Birendra IT Club
+
+Birendra Open Source Club
+
+WordCamp Nepal
+
+CSIT Tutor
+
+IT Students of Nepal
+
+Bickyjack_official - Page to have some cool giveways and tech related resources, tips and tricks.
+
+CrptoGen Nepal
+
+College Note - Notes for IT related Bachelors students.
+
+Jiwan Bhattarai - CISCO cerfied Networking Specialist and Motivator.
+
+Pentester Nepal
+
+Intrigriti
+
+Digital Yeti Pvt. Ltd. - Graphics designing comapany in Nepal
