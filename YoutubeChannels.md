@@ -40,7 +40,8 @@ why so offended
 
 osr digital
 
-++++++
+****
+
 Sunny Labh - Science author | Blogger | Educator | Physics and Physique | Ph.D. in curiosity
 
 Sushant Pradhan - Excellent content creater, Podcasts
