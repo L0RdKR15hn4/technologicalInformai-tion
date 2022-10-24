@@ -6,4 +6,4 @@ CSIT Association - largest IT student organization of nepal
 
 ACS- association for csit students
 
-csit hub- csit group of mount annapurna campus
+csit hub- csit group of mount annapurna campus.
