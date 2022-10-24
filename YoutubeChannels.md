@@ -46,7 +46,7 @@ Sunny Labh - Science author | Blogger | Educator | Physics and Physique | Ph.D. 
 
 Sushant Pradhan - Excellent content creater, Podcasts
 
-Herne Katha - 
+Herne Katha - Web Series of stories of common people in the format of short documentaries.
 
 IN-Depth Story - Research, Analysis and Satire
 
