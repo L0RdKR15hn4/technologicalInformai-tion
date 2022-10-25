@@ -40,4 +40,28 @@ why so offended
 
 osr digital
 
+****
+
+Sunny Labh - Science author | Blogger | Educator | Physics and Physique | Ph.D. in curiosity
+
+Sushant Pradhan - Excellent content creater, Podcasts
+
+Herne Katha - Web Series of stories of common people in the format of short documentaries.
+
+IN-Depth Story - Research, Analysis and Satire
+
+The Nepali Comment - Current affairs, history, wider view giver.
+
+TechnoKD - Software review, Gadgets review, Tips and tricks
+
+ITSNP ORG - Youtube channel for biggest IT community in Nepal
+
+Pentester Nepal - Pentesting community based in Nepal
+
+Gupta Tutorial - CSIT tutor based on Birendra Multiple Campus
+
+Ratan Karki - Comedian Vlogger
+
+
+
 

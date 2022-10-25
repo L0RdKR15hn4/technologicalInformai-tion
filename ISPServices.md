@@ -26,3 +26,7 @@ ISP Internet Service Providers
   Airtel Broadband V-Fiber Service
   
   Pushpa Broadband Services
+  
+  TechMinds Network Pvt. Ltd.
+  
+  Net Max Technologies Pvt. Ltd.
